@@ -1,23 +1,26 @@
 header {
     background-color: rgb(95, 175, 204);
     text-align: center;
-}
-h1{
-    text-align: center;
+
 }
 h2 {
     background-color: rgb(49, 126, 150);
+    text-align: center;
 }
+
 
 img{
     border-radius: 500px;
     border-style: dotted;
-
-    align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div{
     margin: auto;
-    width: 600px;
+    width: 800px;
+    border-style: groove;
+    border-color: aqua;
 
 }
