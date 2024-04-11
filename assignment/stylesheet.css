@@ -22,7 +22,8 @@ img{
     margin-right: auto;
 }
 
-div{
+.info {
+    background-color: rgb(48, 65, 80);
     margin: auto;
     width: 800px;
     border-style: groove;
