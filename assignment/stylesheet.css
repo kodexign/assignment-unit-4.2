@@ -6,9 +6,10 @@ header {
 h2 {
     background-color: rgb(49, 126, 150);
     text-align: center;
+    font-family:  'Courier New', Courier, monospace;
+    font-size: x-large;
 }
-
-h3 {
+    h3 {
     display: block;
     text-align: center;
     padding: 50px;
@@ -17,6 +18,7 @@ h3 {
 img{
     border-radius: 500px;
     border-style: dotted;
+    border-color: rgb(242, 247, 177);
     display: block;
     margin-left: auto;
     margin-right: auto;
