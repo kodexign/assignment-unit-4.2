@@ -1,6 +1,23 @@
 header {
-    background-color: orange;
+    background-color: rgb(95, 175, 204);
+    text-align: center;
+}
+h1{
+    text-align: center;
 }
 h2 {
-    background-color: purple;
+    background-color: rgb(49, 126, 150);
+}
+
+img{
+    border-radius: 500px;
+    border-style: dotted;
+
+    align: center;
+}
+
+div{
+    margin: auto;
+    width: 600px;
+
 }
