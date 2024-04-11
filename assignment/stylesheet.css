@@ -8,6 +8,11 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    display: block;
+    text-align: center;
+    padding: 50px;
+}
 
 img{
     border-radius: 500px;
